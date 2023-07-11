@@ -1,0 +1,5 @@
+hello.txt	 15-countthatword	6-third_line  1-confused_smiley
+12-newest_files  18-letteronly		5-firstlines  README.md
+7-file		 21-reverse		4-lastlines   0-hello_world
+13-unique	 9-duplicate_last_line	3-twofiles
+14-findthatword  8-cwd_state		2-hellofile
